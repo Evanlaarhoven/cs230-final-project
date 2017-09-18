@@ -1,0 +1,28 @@
+Division of Labor:
+  
+Emily:
+Decision Tree (Mechanics and Implementation)
+Question Class 
+Final Class
+Wrote Prioritize Method
+Edited LinkedBinaryTree, MaxHeap, and Priority Queue
+Button listener in availability panel
+  
+Andrea:
+Club class/club objects
+Title Panel (Mechanics)
+Results Panel (Mechanics)
+  
+Emma:
+Availability Panel (Mechanics)
+fits() method (compared availability and club arrays)
+Questions Panel (Mechanics)
+Questions Panel button listener
+Preferences Panel (Mechanics and Implementation)
+  
+Collaborative Tasks:
+  
+Debugging of all classes and methods
+Andrea and Emily linked the panels and stored the variables in the frame
+Emily and Emma dealt with exceptions in the Preferences Panel
+Wrote the User’s Manual

@@ -1,0 +1,40 @@
+Ascendance, Wednesday, 1900, 4, 2, 7
+Aiko, Thursday, 2000, 5, 2, 5
+Cielito Lindo, Monday, 1900, 5, 1, 4
+Wushu, Thursday, 1800, 5, 2, 5
+Yanvalou, Wednesday, 1300, 4, 1, 2
+Water Polo, Tuesday, 2000, 2, 8, 3
+Volleyball, Wednesday, 1900, 3, 7, 3
+Rugby, Wednesday, 1300, 2, 5, 4
+Hockey, Thursday, 1900, 3, 7, 4
+Quidditch, Tuesday, 1600, 2, 8, 1
+Anime Club, Friday, 1600, 2, 3, 1
+Mariachi, Monday, 1730, 3, 1, 4
+Phocus, Wednesday, 1830, 2, 1, 2
+Italian Society, Wednesday, 1230, 3, 2, 3
+Girl Up, Thursday, 2100, 4, 3, 1
+Psychology Club, Sunday, 1930, 1, 7, 1
+Botanistas, Thursday, 1230, 2, 1, 1
+Robogals, Thursday, 1900, 2, 7, 1
+RCS Club, Tueday, 1800, 2, 7, 1
+RAstro Club, Thursday, 2000, 3, 2, 2
+Wellesley for Caribbean Development, Wednesday, 2000, 4, 3, 2
+Ethos, Wednesday, 2000, 5, 5, 3
+CSA, Tuesday, 1800, 5, 5, 3
+Mezcla, Thursday, 1930, 6, 4, 3
+Wellesley African Student's Association, Sunday, 1900, 7, 5, 3
+SAGA, Tuesday, 1900, 5, 3, 1
+Siblings, Tuesday, 1700, 3, 1, 5
+Familia, Sunday, 1100, 4, 1, 5
+First Gen, Wednesday, 1300, 3, 1, 6
+Newman, Sunday, 1700, 2, 1, 3
+Model UN, Monday, 1830, 1, 5, 3
+Wellesley College Republicans, Wednesday, 1700, 1, 1, 2
+Wellesley College Democrats, Wednesday, 2000, 3, 1, 2
+CPLA, Monday, 2000, 7, 1, 1
+Amnesty International, Monday, 1900, 6, 4, 1
+Students for Justice in Palestine, Sunday, 1100, 6, 2, 1
+Feminists for Reproductive Justice, Monday, 1800, 3, 1, 1
+SAAFE, Monday, 1800, 3, 2, 2
+S.H.E.s, Wednesday, 2000, 6, 1, 4
+Environmental Action, Wednesday, 2000, 2, 2, 1
